@@ -16,7 +16,7 @@ A free, client-side PDF signing tool that runs entirely in your browser. No uplo
 
 ## How to Use
 
-1. Open `index.html` in your browser (or visit the [live demo](https://crenshawm.github.io/signare-pdf/))
+1. Open `index.html` in your browser (or visit the [live demo](https://crenshawm.github.io/Signare/))
 2. Click **Open PDF** or drag a PDF file onto the page
 3. Use the toolbar to add signatures, text, or dates
 4. Drag fields to position them
